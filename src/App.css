@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+.bill {
+  margin: 20px;
+
+  /* padding-left: 300px;
+  padding-right: 300px; */
+}
+.header {
+  background-color: #880e4f;
+
+  padding: 10px;
+}
+.inp {
+  width: 50%;
+}
+table th input {
+  width: auto !important;
+}
+.c span {
+  /* background-color: #880e4f; */
+  color: #f8bbd0;
+
+  border: none;
+  outline: none;
+}
+
+.add {
+  padding-left: 70px;
+  padding-right: 50px;
+  /* margin: 10px; */
+}
+.f {
+  background-color: #880e4f;
+  padding: 10px;
+
+  color: #f8bbd0;
+  border: none;
+  outline: none;
+}
+.u {
+  align-content: center;
+  /* background-color: #f8bbd0; */
+}
+.up {
+  align-content: center;
+  /* background-color: #f8bbd0; */
+  color: #880e4f;
+  /* border-color: #f8bbd0; */
+}
+.i {
+  border-color: #880e4f;
+  border-radius: 1px;
+}
+.update {
+  color: #e9d5db;
+  background-color: #880e4f;
+  border: none;
+  padding: 10px;
+}
+.low {
+  border-color: red;
+}
+.font {
+  font-size: 10px;
+}
+/* .table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th {
+  border: none;
+} */
