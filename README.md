@@ -1,3 +1,16 @@
+Website link: https://lalitha-electrical-automobile-shop.netlify.app/signin
+
+Log in details
+
+ Admin - email: admin@gmail.com
+         password: admin
+         
+ worker - email: worker@gmail.com
+          password: worker
+  
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
