@@ -1,3 +1,5 @@
+This website was made for a client
+
 Website link: https://lalitha-electrical-automobile-shop.netlify.app/signin
 
 Log in details
@@ -8,6 +10,7 @@ Log in details
  worker - email: worker@gmail.com
           password: worker
   
+ click on the picture to log in 
 
 
 
